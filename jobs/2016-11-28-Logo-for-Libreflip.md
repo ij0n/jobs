@@ -7,7 +7,7 @@ github: ij0n
 contact: ijon@c-base.org, hanging out on freenode, usually in #c-base
 url: http://www.ijon.me
 tags: logo
-status: searching
+status: done. 
 rate: gratis / maybe some money later on when funding has been secured. 
 date_posted: 2016-11-28
 ---
@@ -27,3 +27,5 @@ Thanks a lot in advance!
 
 Cheers
 Ijon
+
+edit: thanks everyone, I had some days off, spent them in the forest and a lightningbolt of creativity hit me, so I designed a logo for myself. Thanks to B. for giving me feedback on all of the 12 iterations before I decided that it was done.
